@@ -13,7 +13,7 @@ It will not "bumps" you with error messages (as 7zTM). I created first page with
 
 Because I saw that some users wrote that 7zTM did the work, but 7-zip theme(s) was not changed - I created full log of script execution, which you will see on the last page (InnoSetup: Finished-Page) after execution (Apply/Import). There will be a "save" button, which allows you to save it (just in case).
 
-In the execution log will be saved only the relative paths, so, you will not need to edit it, if you will want to send the log to me (or someone else).
+In the execution log only the relative paths will be saved so, you will not need to edit it, if you will want to send the log to me (or someone else).
 You can easily find the problems in the execution log, because all successful Exit-Codes are written as "(OK)" at the end of line. Other Error-Codes will be written as for example "(1)", "(5)", "(10)" or "(15)" and before the Error-Code you will see the OS message what failed.
 
 Because only one person ( CrypticCus ) asked me to change the program colors (B/W), so, I didn't change the default InnoSetup colors.
