@@ -16,7 +16,7 @@ Because I saw that some users wrote that 7zTM did the work, but 7-zip theme(s) w
 In the execution log will be saved only the relative paths, so, you will not need to edit it, if you will want to send the log to me (or someone else).
 You can easily find the problems in the execution log, because all successful Exit-Codes are written as "(OK)" at the end of line. Other Error-Codes will be written as for example "(1)", "(5)", "(10)" or "(15)" and before the Error-Code you will see the OS message what failed.
 
-Because only one person (crypticus) asked me to change the program colors (B/W), so, I didn't change the default InnoSetup colors.
+Because only one person ( CrypticCus ) asked me to change the program colors (B/W), so, I didn't change the default InnoSetup colors.
 
 This program is shared as a Freeware (Donation-Ware).
 
@@ -27,3 +27,7 @@ to get your personal version with command-line support.
 Please provide in message the nickname or e-mail, or (if you want) the first name and second name, for who the program will be designed?
 
 Multi-license (business) version are also available, please contact me personally with your offer.
+
+P.S.
+**Please, don't share your personal version in the internet.
+I will share for all supporters the fixed version, if there will be any errors in the program. But, if I can find your personal version in the internet - then I will not share the version without bugs for you.**
