@@ -20,7 +20,7 @@ You can easily find the problems in the execution log, because all successful Ex
 
 Because only one person ( CrypticCus ) asked me to change the program colors (B/W), so, I didn't change the default InnoSetup colors.
 
-**Changes to the program:**
+**Changes in the program:**
 ## v2.0:
 Added support for "NanaZip" ( big thanks to the chmichael user for good advice. Thank you so much! ).
 But, I disabled the option to detect NanaZip installed from store, because it won't work (we don't have the write access rights there :]). So, it always failing with the message: "Access is denied (5)".
