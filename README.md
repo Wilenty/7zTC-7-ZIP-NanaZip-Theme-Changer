@@ -25,6 +25,9 @@ Because only one person ( CrypticCus ) asked me to change the program colors (B/
 Added support for "NanaZip" ( big thanks to the chmichael user for good advice. Thank you so much! ).
 But, I disabled the option to detect NanaZip installed from store, because it won't work (we don't have the write access rights there :]). So, it always failing with the message: "Access is denied (5)".
 
+Get the latest installer (*.msixbundle) of NanaZip from there: https://github.com/M2Team/NanaZip/releases/latest
+In my program select the NanaZip, then select the *.msixbundle for installation in "Install NanaZip?" - it will extract the correct files into selected location for installation, and will be able to modify the resources.
+
 And since NanaZip does not support the "standard shell-extensions", I added the option to install/using 7-Zip with the NanaZip.dll (exactly the: "NanaZipCore.dll").
 But, in my tests it works only with a "pure" (unmodified) 7z.dll from which the script copies all the needed resurces.
 So, if you will see the error-code 13 "Bad data (13)" in the log file before/after the "Finishing update resource(s) of file (...)\NanaZipCore.dll" (the log its written in reverse order to speed-up the execution), it means that the Windows API can't update all of the resources, because it's too many of them...
