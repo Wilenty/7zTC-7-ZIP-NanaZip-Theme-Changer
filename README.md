@@ -1,4 +1,4 @@
-# 7zTC 2.0 (7-ZIP Theme Changer)
+# 7zTC 2.1 (7-ZIP Theme Changer)
 
 This program is much better version of this one: https://github.com/Wilenty/7-Zip-Theme-Manager-remake-of-version-2.1
 
