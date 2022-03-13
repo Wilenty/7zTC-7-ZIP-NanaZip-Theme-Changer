@@ -35,6 +35,17 @@ In this case, you need to install 7-Zip along with the adding of NanaZip.dll, or
 
 ---
 
+## v2.1:
+Note: before use this version, please delete the folder of extracted NanaZip, if you used it with version 2.0, usually "C:\Program Files\NanaZip". Now my program extracts only the files needed for standard APP's, without unneeded store stuff.
+
+Added shell-extensions for NanaZip ( big thanks to the chmichael user for the motivation! :) ). Also, it assigns all the file-types extension to the NanaZip, so, now it works out-of-the-box. My program creates uninstall section of extracted NanaZip, so, it can be easily uninstalled.
+
+On installing NanaZip please select your favorite theme of file-types, but if you don't select any, script chooses the first one from the list which usually is the "Default 7-Zip theme" for file-types.
+
+BTW, I forgot to write before that it should also work on ARM64 Systems, with exceptions of shell-extensions and file-types, because VS2015CE does not support ARM64 architecture. :]
+
+---
+
 This program is shared as a Freeware (Donation-Ware).
 
 Free version is available for free, but without command-line support. You can support me on Patreon ($5): https://www.patreon.com/posts/63191000
