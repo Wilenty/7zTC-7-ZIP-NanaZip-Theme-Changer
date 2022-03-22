@@ -1,4 +1,4 @@
-# 7zTC 2.1 (7-ZIP Theme Changer)
+# 7zTC 2.2 (7-ZIP/NanaZip Theme Changer)
 
 This program is much better version of this one: https://github.com/Wilenty/7-Zip-Theme-Manager-remake-of-version-2.1
 
@@ -20,8 +20,10 @@ You can easily find the problems in the execution log, because all successful Ex
 
 Because only one person ( CrypticCus ) asked me to change the program colors (B/W), so, I didn't change the default InnoSetup colors.
 
-**Changes in the program:**
-## v2.0:
+## Changes in the program:
+
+<details><summary>v2.0:</summary>
+
 Added support for "NanaZip" ( big thanks to the chmichael user for good advice. Thank you so much! ).
 But, I disabled the option to detect NanaZip installed from store, because it won't work (we don't have the write access rights there :]). So, it always failing with the message: "Access is denied (5)".
 
@@ -33,9 +35,12 @@ But, in my tests it works only with a "pure" (unmodified) 7z.dll from which the 
 So, if you will see the error-code 13 "Bad data (13)" in the log file before/after the "Finishing update resource(s) of file (...)\NanaZipCore.dll" (the log its written in reverse order to speed-up the execution), it means that the Windows API can't update all of the resources, because it's too many of them...
 In this case, you need to install 7-Zip along with the adding of NanaZip.dll, or you can try to copy the unmodified 7z.dll to the location of installed 7-Zip and then try again.
 
+</details>
+
 ---
 
-## v2.1:
+<details><summary>v2.1:</summary>
+
 Note: before use this version, please delete the folder of extracted NanaZip, if you used it with version 2.0, usually "C:\Program Files\NanaZip". Now my program extracts only the files needed for standard APP's, without unneeded store stuff.
 
 Added shell-extensions for NanaZip ( big thanks to the chmichael user for the motivation! :) ). Also, it assigns all the file-types extension to the NanaZip, so, now it works out-of-the-box. My program creates uninstall section of extracted NanaZip, so, it can be easily uninstalled.
@@ -43,6 +48,16 @@ Added shell-extensions for NanaZip ( big thanks to the chmichael user for the mo
 On installing NanaZip please select your favorite theme of file-types, but if you don't select any, script chooses the first one from the list which usually is the "Default 7-Zip theme" for file-types.
 
 BTW, I forgot to write before that it should also work on ARM64 Systems, with exceptions of shell-extensions and file-types, because VS2015CE does not support ARM64 architecture. :]
+
+</details>
+
+---
+
+**v2.2:**
+
+Fixed NanaZip Installing and Mixed-Install, from now it can work a bit slower on these two, but a way better. It should correctly add the file-types without any errors about "Bad data (13)".
+
+Added the "windows_11_theme_for_7_zip_by_ivan13x_demykcf" from there: https://sourceforge.net/p/sevenzip/discussion/45797/thread/d82ec82a71/
 
 ---
 
