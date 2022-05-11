@@ -53,7 +53,7 @@ BTW, I forgot to write before that it should also work on ARM64 Systems, with ex
 
 ---
 
-<details><summary>v2.2::</summary>
+<details><summary>v2.2:</summary>
 
 Fixed NanaZip Installing and Mixed-Install, from now it can work a bit slower on these two, but a way better. It should correctly add the file-types without any errors about "Bad data (13)".
 
