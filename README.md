@@ -1,4 +1,4 @@
-# 7zTC v2.2 (7-ZIP/NanaZip Theme Changer)
+# 7zTC 2.2.1 (7-ZIP/NanaZip Theme Changer)
 
 This program is much better version of this one: https://github.com/Wilenty/7-Zip-Theme-Manager-remake-of-version-2.1
 
@@ -53,11 +53,19 @@ BTW, I forgot to write before that it should also work on ARM64 Systems, with ex
 
 ---
 
-**v2.2:**
+<details><summary>v2.2::</summary>
 
 Fixed NanaZip Installing and Mixed-Install, from now it can work a bit slower on these two, but a way better. It should correctly add the file-types without any errors about "Bad data (13)".
 
 Added the "windows_11_theme_for_7_zip_by_ivan13x_demykcf" from there: https://sourceforge.net/p/sevenzip/discussion/45797/thread/d82ec82a71/
+
+</details>
+
+---
+
+**v2.2.1:**
+
+Fixed installation latest version of NanaZip (v1.2.252.0).
 
 ---
 
