@@ -65,7 +65,28 @@ Added the "windows_11_theme_for_7_zip_by_ivan13x_demykcf" from there: https://so
 
 **v2.2.1:**
 
-Fixed installation latest version of NanaZip (v1.2.252.0).
+Fixed installation of latest version of NanaZip (v1.2.252.0).
+
+(2022.05.14 {YYYY.MM.DD})
+
+At the request of user Patrxgt added the following themes:
+```
+\---ToolBar
+    +---Office 2013
+    +---Windows 10 Blue
+    +---Windows 10 Default
+    +---Windows 10 Modern
+```
+Thanks!
+
+And added the following themes from there: https://github.com/RipplePiam/7zip-Theme
+```
+\---Filetype
+   +---Windows 10 Blue
+   +---Windows 10 Default
+\---ToolBar
+    +---Glyfz 2016
+```
 
 ---
 
