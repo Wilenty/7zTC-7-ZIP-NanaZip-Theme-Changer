@@ -67,7 +67,7 @@ Added the "windows_11_theme_for_7_zip_by_ivan13x_demykcf" from there: https://so
 
 Fixed installation of latest version of NanaZip (v1.2.252.0).
 
-(2022.05.14 {YYYY.MM.DD})
+(2022-05-14 {YYYY-MM-DD})
 
 At the request of user Patrxgt added the following themes:
 ```
