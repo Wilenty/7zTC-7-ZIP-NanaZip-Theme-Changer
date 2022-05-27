@@ -1,4 +1,4 @@
-# 7zTC v2.2.1 (7-ZIP/NanaZip Theme Changer)
+# 7zTC v2.5 (7-ZIP/NanaZip Theme Changer)
 
 This program is much better version of this one: https://github.com/Wilenty/7-Zip-Theme-Manager-remake-of-version-2.1
 
@@ -63,7 +63,7 @@ Added the "windows_11_theme_for_7_zip_by_ivan13x_demykcf" from there: https://so
 
 ---
 
-**v2.2.1:**
+<details><summary>v2.2.1:</summary>
 
 Fixed installation of latest version of NanaZip (v1.2.252.0).
 
@@ -87,6 +87,17 @@ And added the following themes from there: https://github.com/RipplePiam/7zip-Th
 \---ToolBar
     +---Glyfz 2016
 ```
+
+</details>
+
+---
+
+**v2.5:**
+
+Created comfortable installer to extract or launch the program - added some example files (*.cmd) to extract or launch, and described all parameters in *.txt files. Now you can extract only the program, or immediately launch it with selected themes, also you can create your own collection of the themes by extracting only those which you want to use.
+
+Restored the possibility to change themes of NanaZip installed via store, after positive reports that if works without any problems. But I disabled auto-detecting of NanaZip installed via store in 7zTC.
+I am still not responsible for any damage done to the store - you doing it at your own risk.
 
 ---
 
