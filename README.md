@@ -1,10 +1,10 @@
-# 7zTC v2.5 (7-ZIP/NanaZip Theme Changer)
+# 7zTC v3.0 (7-ZIP/NanaZip Theme Changer)
 
 This program is much better version of this one: https://github.com/Wilenty/7-Zip-Theme-Manager-remake-of-version-2.1
 
 **The changes are (and will be) described below the main program description.**
 
-Now you can install 7-zip and apply any/all themes in one execution. Also, you can import theme(s) from installed/portable 7-zip as in 7zTM.
+Now you can install 7-zip and apply any theme in one execution. Also, you can import theme(s) from installed/portable 7-zip as in 7zTM.
 
 And it supports "a bit more" than 3 languages (about 70).
 Some messages in the program are only in English, because they have not been translated in the InnoSetup.
@@ -92,24 +92,28 @@ And added the following themes from there: https://github.com/RipplePiam/7zip-Th
 
 ---
 
-**v2.5:**
+<details><summary>v2.5:</summary>
 
 Created comfortable installer to extract or launch the program - added some example files (*.cmd) to extract or launch, and described all parameters in *.txt files. Now you can extract only the program, or immediately launch it with selected themes, also you can create your own collection of the themes by extracting only those which you want to use.
 
 Restored the possibility to change themes of NanaZip installed via store, after positive reports that if works without any problems. But I disabled auto-detecting of NanaZip installed via store in 7zTC.
 I am still not responsible for any damage done to the store - you doing it at your own risk.
 
+</details>
+
+---
+
+**v3.0:**
+
+Now it should works with "NanaZip 1.0 Preview 1 (1.0.25.0)" from there: https://github.com/M2Team/NanaZip/releases?page=3
+up to "NanaZip 3.0 Preview 0 (3.0.756.0)" from there: https://github.com/M2Team/NanaZip/releases?page=1
+And in any future versions, if they don't change the file-names in the future :]
+
+Added (optional) icon "apfs.ico" which can be found in: FileType\7-Zip Original Theme\apfs.ico
+
 ---
 
 This program is shared as a Freeware (Donation-Ware).
-
-Free version is available for free, but without command-line support. You can support me on Patreon ($5): https://www.patreon.com/posts/63191000
-or Ko-Fi (5€): https://ko-fi.com/Wilenty
-to get your personal version with command-line support.
-
-Please provide in message the nickname or e-mail, or (if you want) the first name and second name, for who the program will be designed?
-
-Multi-license (business) version are also available, please contact me personally with your offer.
 
 P.S.
 **Please, don't share your personal version in the internet.
