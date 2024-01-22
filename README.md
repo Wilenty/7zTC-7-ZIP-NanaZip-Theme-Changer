@@ -1,4 +1,4 @@
-# 7zTC v3.0 (7-ZIP/NanaZip Theme Changer)
+# 7zTC v3.01 (7-ZIP/NanaZip Theme Changer)
 
 This program is much better version of this one: https://github.com/Wilenty/7-Zip-Theme-Manager-remake-of-version-2.1
 
@@ -103,13 +103,16 @@ I am still not responsible for any damage done to the store - you doing it at yo
 
 ---
 
-**v3.0:**
+**v3.0(1):**
 
 Now it should works with "NanaZip 1.0 Preview 1 (1.0.25.0)" from there: https://github.com/M2Team/NanaZip/releases?page=3
 up to "NanaZip 3.0 Preview 0 (3.0.756.0)" from there: https://github.com/M2Team/NanaZip/releases?page=1
 And in any future versions, if they don't change the file-names in the future :]
 
 Added (optional) icon "apfs.ico" which can be found in: FileType\7-Zip Original Theme\apfs.ico
+
+**v3.01**: Small fix for "some times doesn't install at all because it says theres 2 of the same programs open, both happens on win 10&11"
+https://github.com/Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer/issues/11
 
 ---
 
