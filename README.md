@@ -1,4 +1,4 @@
-# 7zTC v3.01 (7-ZIP/NanaZip Theme Changer)
+# 7zTC v3.0.1 (7-ZIP/NanaZip Theme Changer)
 
 [![Latest Version](https://img.shields.io/github/release/Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer.svg)](https://github.com/Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer/total.svg)](https://github.com/Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer/releases)
