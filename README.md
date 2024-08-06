@@ -3,6 +3,7 @@
 [![Latest Version](https://img.shields.io/github/release/Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer.svg)](https://github.com/Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer/total.svg)](https://github.com/Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer/releases)
 [![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer/latest/total.svg)](https://github.com/Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer/releases/latest)
+[![v3.0.1 Release Downloads](https://img.shields.io/github/downloads/Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer/v3.0.1/total.svg)](https://img.shields.io/github/downloads/Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer/releases/v3.0.1)
 
 This program is much better version of this one: https://github.com/Wilenty/7-Zip-Theme-Manager-remake-of-version-2.1
 
