@@ -121,7 +121,7 @@ https://github.com/Wilenty/7zTC-7-ZIP-NanaZip-Theme-Changer/issues/11
 
 ---
 
-This program is shared as a Freeware (Donation-Ware).
+This program is shared as a Donation-Ware (Freeware).
 
 P.S.
 **Please, don't share your personal version in the internet.
